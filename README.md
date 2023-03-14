@@ -5,11 +5,11 @@ This project is a random password generator, it asks you a series of questions a
 
 
 ## Screenshots
-C:\Users\Josh\Pictures\Screenshots\Screenshot 2023-03-13 231756.png 
-C:\Users\Josh\Pictures\Screenshots\Screenshot 2023-03-14 151641.png
-C:\Users\Josh\Pictures\Screenshots\Screenshot 2023-03-14 151657.png
-C:\Users\Josh\Pictures\Screenshots\Screenshot 2023-03-14 151710.png
-C:\Users\Josh\Pictures\Screenshots\Screenshot 2023-03-14 151722.png
+assets\Screenshots\Screenshot 2023-03-13 231756.png
+assets\Screenshots\Screenshot 2023-03-14 151641.png
+assets\Screenshots\Screenshot 2023-03-14 151657.png
+assets\Screenshots\Screenshot 2023-03-14 151710.png
+assets\Screenshots\Screenshot 2023-03-14 151722.png
 
 ## Credits
 
